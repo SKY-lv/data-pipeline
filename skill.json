@@ -1,0 +1,10 @@
+{
+  "name": "data-pipeline",
+  "version": "1.0.0",
+  "description": "Data Pipeline Agent - ETL automation, data orchestration",
+  "author": "SKY-lv",
+  "license": "MIT",
+  "keywords": ["etl", "data-pipeline", "data-engineering", "ai-agent", "openclaw"],
+  "repository": "https://github.com/SKY-lv/data-pipeline",
+  "main": "SKILL.md"
+}
